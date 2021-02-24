@@ -1,6 +1,6 @@
 # Python Review
 
-Hello! This content is intended to review the Python you practiced in Bootcamp Prep.
+Hello! This content is intended to review the Python you practiced in the Prep Work.
 
 You will practice: 
 
@@ -19,7 +19,7 @@ Some new things we're bringing up that weren't covered in Bootcamp Prep:
 
 ## Instructions
 
-In order to do this review notebook, you will need to follow the below steps:
+In order to do this review notebook locally, you will need to follow the below steps:
 
 1. Fork this repo.
 2. Clone your fork.
